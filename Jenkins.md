@@ -15,7 +15,7 @@
     |--|:--:|:--:|:--:|
     |[Archiva](http://capibaribe.recife:8090/repository/internal)|settings.xml [^ 1]| - | - |
     |de Processos| - | root@pradoh.recife | jboss@prado.recife | <--! sanchod.recife -->
-    |do Ágiles| - | root@joqueihl.recife | joqueihl.recife |
+    |do Ágiles| - | root@joqueihl.recife | joquei.recife |
     <!-- |do BD| - | carlosgomesh.recife || -->
     <!-- |ass. digi.| - | root@coleiro.recife || -->
   

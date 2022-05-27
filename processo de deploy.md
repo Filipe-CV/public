@@ -73,6 +73,13 @@
   > - Homologaçao e produção é o mesmo formanto de deploy. É o mesmo .war que vai para homologação e para produção.  
   > - O deploy para produção é feito pela equipe de suporte (e não pela equipe de desenvolvedores).
   
+  > Versões usadas e plug-in svn escolhido a ser testado:
+
+   |      |   no projeto   | no Jenkins  | |               plug-in ([Jenkins](https://plugins.jenkins.io/subversion/))                ||plug-in (Eclipse)|
+   |----- |:--------------:|:-----------:|-|:----------------------------------------------------------------------------------------:|-|:---------------:|
+   | SVN  | 1.4.2 (r22196) |  $\nexists$ | |        [+recente](https://github.com/jenkinsci/subversion-plugin/releases/latest)        ||      1.10.13     |
+   |Maven |      3.0.1     |    3.5.4    | |                                        -                                                 ||1.7.0.20160603-...|
+  
 
 
 [^1]: fonte: 'repasseequipebpmagiles on 2020-12-30 00-02.mp4' tempo:21:42
